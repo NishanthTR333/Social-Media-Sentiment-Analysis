@@ -5,6 +5,8 @@ npm-debug.log
 
 # Environment variables
 backend/.env
+backend/venv
+.venv
 .env
 .env.local
 
