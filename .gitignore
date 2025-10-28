@@ -6,6 +6,10 @@ npm-debug.log
 # Environment variables
 backend/.env
 backend/venv
+backend/bert_model_transformers/tf_model.h5
+backend/random_forest_model.joblib
+backend/xlnet/xlnet_model/tf_model.h5
+backend/roberta_model_transformers/tf_model.h5
 .venv
 .env
 .env.local
